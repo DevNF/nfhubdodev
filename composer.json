@@ -1,0 +1,19 @@
+{
+    "name": "nfservice/hubdodev",
+    "description": "Biblioteca para comunicaçao com a API de Serviços HubDoDev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NFService\\HubDoDev\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
